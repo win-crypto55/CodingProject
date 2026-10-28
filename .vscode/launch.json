@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "SwingChat",
+            "request": "launch",
+            "mainClass": "SwingChat",
+            "projectName": "CodingProject_ae46ac35"
+        },
+        {
+            "type": "java",
+            "name": "SwingChatCheck",
+            "request": "launch",
+            "mainClass": "SwingChatCheck",
+            "projectName": "CodingProject_ae46ac35"
+        }
+    ]
+}
